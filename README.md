@@ -1,7 +1,7 @@
 Hello World!
 ============
 
-This is the first edit of the Hello World.
+### This is the first edit of the Hello World.
 
 in code view:
 
@@ -12,3 +12,12 @@ in code view:
 3. editing.
 
 Still obvious.
+
+
+* after cloning:
+
+### Adding lines (finally in `gvim`)
+
+
+Well, this feels OK, being in `vim` again.
+Let's see what happens now.
